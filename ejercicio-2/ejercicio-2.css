@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    background-color: green;
+}
+
+.contenedor{
+    width: 20%;
+    margin: 200px auto;
+    height: 600px;
+    text-align: center;
+    border-radius: 10%;
+    background-color: rgb(143, 142, 142);
+    color: black;
+}
+
+h2{
+    font-size: 30px;
+    padding-top: 30px;
+    background-color: rgb(100, 97, 97);
+    color: white;
+}
+
+button{
+    background-color: rgb(44, 204, 110);
+    font-size: 15px;
+}
+
+.resultado{
+    font-size: 20px;
+}
+
+.botones40 {
+    width: 40%;
+    margin-top: 25px;
+    margin-right: 5%;
+    margin-left: 4%;
+    padding: 9px;
+}
+
+.botones90 {
+    width: 90%;
+    margin-top: 25px;
+    padding: 18px;
+}
+
+.n1, .n2 {
+    font-size: 130%;
+    padding: 10px 20px;
+    background: rgb(197, 197, 197);
+    margin-top: 30px;
+    text-align: center;
+}
+
+.resul {
+    width: 90%;
+    font-size: 130%;
+    padding: 10px;
+    background: rgb(197, 197, 197);
+    margin-top: 5px;
+    text-align: center;
+}
+
+label {
+    font-size: 220%;
+    color: white;
+}
